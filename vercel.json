@@ -1,0 +1,8 @@
+{
+  "cleanUrls": true,
+  "trailingSlash": false,
+  "routes": [
+    { "handle": "filesystem" },
+    { "src": "/(.*)", "status": 302, "headers": { "Location": "https://altar.rec.ooo/" } }
+  ]
+}
