@@ -85,7 +85,7 @@
       navigator.mediaSession.metadata = new MediaMetadata({
         title: t.title[L] || t.title.en,
         artist: document.title,
-        artwork: t.cover ? [{ src: ROOT + t.cover, sizes: '600x600', type: 'image/jpeg' }] : [],
+        artwork: t.cover ? [{ src: ROOT + t.cover, sizes: '640x360', type: 'image/jpeg' }] : [],
       });
     }
   }
