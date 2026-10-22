@@ -309,5 +309,20 @@ window.TRACKS = [
    "ja": "タバーンの静かな角",
    "zh": "酒館安靜的角落"
   }
+ },
+ {
+  "id": "library-afternoon",
+  "yt": "KyqUedp4pDw",
+  "at": "2026-11-06T04:00:00+09:00",
+  "hours": 1,
+  "floor": null,
+  "state": [
+   "night"
+  ],
+  "names": {
+   "en": "Library Afternoon",
+   "ja": "図書館の午後",
+   "zh": "午後圖書館"
+  }
  }
 ];
