@@ -324,5 +324,20 @@ window.TRACKS = [
    "ja": "図書館の午後",
    "zh": "午後圖書館"
   }
+ },
+ {
+  "id": "crickets-summer-field",
+  "yt": "NZngdnqXnDI",
+  "at": "2026-11-07T04:00:00+09:00",
+  "hours": 1,
+  "floor": null,
+  "state": [
+   "night"
+  ],
+  "names": {
+   "en": "SummerFieldCicadas",
+   "ja": "夏の田園カエル",
+   "zh": "夏夜田野的蟲鳴"
+  }
  }
 ];
