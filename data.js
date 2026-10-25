@@ -339,5 +339,35 @@ window.TRACKS = [
    "ja": "夏の田園カエル",
    "zh": "夏夜田野的蟲鳴"
   }
+ },
+ {
+  "id": "night-insects-rice-paddy",
+  "yt": "OoUGf_xr1VU",
+  "at": "2026-11-08T04:00:00+09:00",
+  "hours": 1,
+  "floor": null,
+  "state": [
+   "night"
+  ],
+  "names": {
+   "en": "NightInsectsRice",
+   "ja": "稲田の夜の虫",
+   "zh": "稻田夜裡的蟲"
+  }
+ },
+ {
+  "id": "wind-mountain-hut",
+  "yt": "TQrVs_sZpAI",
+  "at": "2026-11-09T04:00:00+09:00",
+  "hours": 1,
+  "floor": null,
+  "state": [
+   "night"
+  ],
+  "names": {
+   "en": "Wind Outside Hut",
+   "ja": "山小屋の風",
+   "zh": "山屋外的風"
+  }
  }
 ];
