@@ -369,5 +369,20 @@ window.TRACKS = [
    "ja": "山小屋の風",
    "zh": "山屋外的風"
   }
+ },
+ {
+  "id": "wind-autumn-street",
+  "yt": "iGNSdrJV7Vw",
+  "at": "2026-11-10T04:00:00+09:00",
+  "hours": 1,
+  "floor": null,
+  "state": [
+   "night"
+  ],
+  "names": {
+   "en": "Autumn Wind Street",
+   "ja": "秋の街の風",
+   "zh": "秋天街上的風"
+  }
  }
 ];
