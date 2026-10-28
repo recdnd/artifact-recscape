@@ -384,5 +384,20 @@ window.TRACKS = [
    "ja": "秋の街の風",
    "zh": "秋天街上的風"
   }
+ },
+ {
+  "id": "wind-chimes-porch",
+  "yt": "hYdykwRpSh0",
+  "at": "2026-11-11T04:00:00+09:00",
+  "hours": 1,
+  "floor": null,
+  "state": [
+   "night"
+  ],
+  "names": {
+   "en": "Wind Chimes Porch",
+   "ja": "ウインド チメス ポーチ",
+   "zh": "簷下的風"
+  }
  }
 ];
